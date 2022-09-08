@@ -1,0 +1,12 @@
+1. KNN
+2. Clustering
+3. Linear regression
+4. Perceptron
+5. Nueral network
+6. This Cat Does Not Exist
+7. SVM
+8. Decision trees
+9. Random forest
+10. Naive Bayes
+11. Stochastic Stranding
+
