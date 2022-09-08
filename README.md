@@ -1,4 +1,5 @@
-# HSE_2022
+# HSE 2022
+
 
 ## Computer Vision
 
@@ -25,17 +26,17 @@
 
 ### Machine Learning
 
-1. [KNN]()
-2. [Clustering]()
-3. [Linear regression]()
-4. [Perceptron]()
-5. [Nueral network]()
-6. [This Cat Does Not Exist]()
-7. [SVM]()
-8. [Decision trees]()
-9. [Random forest]()
-10. [Naive Bayes]()
-11. [Stochastic Stranding]()
+1. [KNN](https://github.com/aapoliakova/HSE_2022/blob/master/Machine%20Learning/01.%20KNN/hw1_task.ipynb)
+2. [Clustering](https://github.com/aapoliakova/HSE_2022/blob/master/Machine%20Learning/02.%20Clustering/hw02_task.ipynb)
+3. [Linear regression](https://github.com/aapoliakova/HSE_2022/blob/master/Machine%20Learning/03.%20Linear%20regression/hw3_task.ipynb)
+4. [Perceptron](https://github.com/aapoliakova/HSE_2022/blob/master/Machine%20Learning/04.%20Perceptron/hw04_task.ipynb)
+5. [Nueral network](https://github.com/aapoliakova/HSE_2022/tree/master/Machine%20Learning/05.%20Nueral%20network)
+6. [This Cat Does Not Exist](https://github.com/aapoliakova/HSE_2022/blob/master/Machine%20Learning/06.%20This%20Cat%20Does%20Not%20Exist/hw06_task.ipynb)
+7. [SVM](https://github.com/aapoliakova/HSE_2022/blob/master/Machine%20Learning/07.%20SVM/hw07_task.ipynb)
+8. [Decision trees](https://github.com/aapoliakova/HSE_2022/blob/master/Machine%20Learning/08.%20Decision%20trees/hw08_task.ipynb)
+9. [Random forest](https://github.com/aapoliakova/HSE_2022/blob/master/Machine%20Learning/09.%20Random%20forest/hw09_task.ipynb)
+10. [Naive Bayes](https://github.com/aapoliakova/HSE_2022/blob/master/Machine%20Learning/10.%20Naive%20Bayes/hw10_task.ipynb)
+11. [Stochastic Stranding](https://github.com/aapoliakova/HSE_2022/blob/master/Machine%20Learning/11.%20Stochastic%20Stranding/hw11_task.ipynb)
 
 ## Natural language processing
 
