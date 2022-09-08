@@ -15,7 +15,7 @@
 2. [Generalized Linear Models, Logistic Regression](https://github.com/aapoliakova/HSE_2022/blob/master/Deep%20Learning/Problem%20set%201%20Part%202%20-%20Poliakova%20A.ipynb)
 3. [Dropout, Adam, Adversarial Attack](https://github.com/aapoliakova/HSE_2022/blob/master/Deep%20Learning/Problem%20set%202%20-%20Poliakova.ipynb)
 4. [CNN, Pooling layers, Style transfer](to be added soon)
-5. [RNN, LSTM, Distillation](https://github.com/aapoliakova/HSE_2022/blob/master/Deep%20Learning/Problem%20set%204%20-%20shared.ipynb)git 
+5. [RNN, LSTM, Distillation](https://github.com/aapoliakova/HSE_2022/blob/master/Deep%20Learning/Problem%20set%204%20-%20shared.ipynb)
 
 ## Deep Reinforcement Learning
 
