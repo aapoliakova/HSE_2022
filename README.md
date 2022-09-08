@@ -24,7 +24,7 @@
 2. [PPO](https://github.com/aapoliakova/HSE_2022/tree/master/Deep%20Reinforcement%20learning/drl_hw2)
 3. [TD3](https://github.com/aapoliakova/HSE_2022/tree/master/Deep%20Reinforcement%20learning/drl_hw3)
 
-### Machine Learning
+## Machine Learning
 
 1. [KNN](https://github.com/aapoliakova/HSE_2022/blob/master/Machine%20Learning/01.%20KNN/hw1_task.ipynb)
 2. [Clustering](https://github.com/aapoliakova/HSE_2022/blob/master/Machine%20Learning/02.%20Clustering/hw02_task.ipynb)
